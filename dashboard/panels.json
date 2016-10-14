@@ -1,0 +1,9 @@
+[
+	{
+		"name": "twitter-manual",
+		"title": "Tweet",
+		"width": 2,
+		"file": "panel.jade",
+		"faIcon": "fa-twitter"
+	}
+]
